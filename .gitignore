@@ -1,1 +1,4 @@
 venv/
+.vim/
+*.png
+__pycache__/
